@@ -1,0 +1,11 @@
+C:\Users\kyleg\source\repos\Lab_10-Movie_List\Lab_10-Movie_List\bin\Debug\netcoreapp3.0\Lab_10-Movie_List.exe
+C:\Users\kyleg\source\repos\Lab_10-Movie_List\Lab_10-Movie_List\bin\Debug\netcoreapp3.0\Lab_10-Movie_List.deps.json
+C:\Users\kyleg\source\repos\Lab_10-Movie_List\Lab_10-Movie_List\bin\Debug\netcoreapp3.0\Lab_10-Movie_List.runtimeconfig.json
+C:\Users\kyleg\source\repos\Lab_10-Movie_List\Lab_10-Movie_List\bin\Debug\netcoreapp3.0\Lab_10-Movie_List.runtimeconfig.dev.json
+C:\Users\kyleg\source\repos\Lab_10-Movie_List\Lab_10-Movie_List\bin\Debug\netcoreapp3.0\Lab_10-Movie_List.dll
+C:\Users\kyleg\source\repos\Lab_10-Movie_List\Lab_10-Movie_List\bin\Debug\netcoreapp3.0\Lab_10-Movie_List.pdb
+C:\Users\kyleg\source\repos\Lab_10-Movie_List\Lab_10-Movie_List\obj\Debug\netcoreapp3.0\Lab_10-Movie_List.csprojAssemblyReference.cache
+C:\Users\kyleg\source\repos\Lab_10-Movie_List\Lab_10-Movie_List\obj\Debug\netcoreapp3.0\Lab_10-Movie_List.AssemblyInfoInputs.cache
+C:\Users\kyleg\source\repos\Lab_10-Movie_List\Lab_10-Movie_List\obj\Debug\netcoreapp3.0\Lab_10-Movie_List.AssemblyInfo.cs
+C:\Users\kyleg\source\repos\Lab_10-Movie_List\Lab_10-Movie_List\obj\Debug\netcoreapp3.0\Lab_10-Movie_List.dll
+C:\Users\kyleg\source\repos\Lab_10-Movie_List\Lab_10-Movie_List\obj\Debug\netcoreapp3.0\Lab_10-Movie_List.pdb
